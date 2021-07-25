@@ -1,0 +1,18 @@
+{
+  "expo": {
+   "name": "Post Master",
+   "icon": "./assets/icon.png",
+   "version": "1.0.0",
+   "slug": "Poster",
+   "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  },
+   "android": {
+     "package": "com.postmaster.postmaster",
+     "versionCode": 1
+   }
+   
+  }
+}
